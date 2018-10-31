@@ -4,10 +4,13 @@ This is a copy of a subset of the well-known May 2015 Enron dataset from the CMU
 The associated paper is:
 
 Revanth Rameshkumar, Peter Bailey, Ahbishek Jha, & Chris Quirk,
+
 "Assigning people to tasks identified in email: The EPA dataset for addressee tagging for detected task intent",
 
 Proceedings of The 4th Workshop on Noisy User-generated Text (W-NUT), 
+
 (Nov 2018) Brussels, Belgium.
+
 http://http://noisy-text.github.io/2018/pdf/W-NUT20184.pdf
 
 Abstract:
