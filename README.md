@@ -8,7 +8,7 @@ Revanth Rameshkumar, Peter Bailey, Ahbishek Jha, & Chris Quirk,
 Proceedings of The 4th Workshop on Noisy User-generated Text (W-NUT), 
 (Nov 2018) Brussels, Belgium.
 
-http://http://noisy-text.github.io/2018/pdf/W-NUT20184.pdf
+https://aclanthology.info/papers/W18-6104/w18-6104
 
 Abstract:
 
